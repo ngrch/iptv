@@ -8,15 +8,15 @@
 
 * Основной
   ```
-  https://naggdd.github.io/iptv/ru.m3u
+  https://ngrch.github.io/iptv/ru.m3u
   ```
 * Музыка и радио
   ```
-  https://naggdd.github.io/iptv/music.m3u
+  https://ngrch.github.io/iptv/music.m3u
   ```
 * Мультфильмы
   ```
-  https://naggdd.github.io/iptv/cartoons.m3u
+  https://ngrch.github.io/iptv/cartoons.m3u
   ```
 
 ## Поддержка

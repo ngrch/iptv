@@ -8,15 +8,15 @@ Copy the link to the playlist and paste it into any IPTV player.
 
 * Main
   ```
-  https://naggdd.github.io/iptv/ru.m3u
+  https://ngrch.github.io/iptv/ru.m3u
   ```
 * Music and Radio
   ```
-  https://naggdd.github.io/iptv/music.m3u
+  https://ngrch.github.io/iptv/music.m3u
   ```
 * Cartoons
   ```
-  https://naggdd.github.io/iptv/cartoons.m3u
+  https://ngrch.github.io/iptv/cartoons.m3u
   ```
 
 ## Support
