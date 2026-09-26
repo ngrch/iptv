@@ -482,18 +482,10 @@ http://92.50.128.180/utv/1358/index.m3u8
 http://t1.tv.kvant-telecom.ru:8080/rbk/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Информационные", РБК (3)
 https://online-video.rbc.ru/spb/rbctv_spb.m3u8
-#EXTINF:-1 group-title="Информационные", Планета РТР (Planeta RTR)
-http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
-#EXTINF:-1 group-title="Информационные", RTVI
-http://89.33.29.115:8080/RTVi/index.m3u8
 #EXTINF:-1 group-title="Информационные", ОСН
 https://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1 group-title="Информационные", ЛДПР ТВ
 http://46.46.143.222:1935/live/ldpr.stream_480p/playlist.m3u8
-#EXTINF:-1 group-title="Информационные", Дума
-https://dumatv.iptv2022.com/index.m3u8
-#EXTINF:-1 group-title="Информационные", Дума (2)
-http://185.23.80.23:8080/DumaTV/index.m3u8
 #EXTINF:-1 group-title="Информационные", ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:-1 group-title="Информационные", CNN
@@ -531,8 +523,6 @@ https://cdn-01.bonus-tv.ru/vmesterf/index.m3u8
 #EXTINF:-1 group-title="Информационные", CGTN Русский
 https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
 #EXTINF:-1 group-title="Информационные", CGTN Русский (2)
-https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-#EXTINF:-1 group-title="Информационные", CGTN Русский (3)
 https://stream8.cinerama.uz/1456/index.m3u8
 #EXTINF:-1 group-title="Информационные", DW
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
@@ -558,8 +548,6 @@ https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 #EXTINF:-1 group-title="Информационные", Союзный (2)
 http://radio.tvs.by/TRO/index.m3u8
-#EXTINF:-1 group-title="Информационные", Ost West 24
-http://stream.mcquack.net/455/index.m3u8
 
 #EXTINF:-1 group-title="Детские", Маша и Медведь
 https://lbgo.bozztv.com/07/ushba79/index.m3u8
