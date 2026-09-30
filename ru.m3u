@@ -567,12 +567,8 @@ https://lbgo.bozztv.com/07/ushba80/index.m3u8
 https://stream8.cinerama.uz/1437/index.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids (2)
 http://stream.mcquack.net/197/index.m3u8
-#EXTINF:-1 group-title="Детские", СТС Kids (3)
-http://iptv.mega.net.ru:8888/CTC_Kids/index.m3u8
 #EXTINF:-1 group-title="Детские", Fan
 http://stream.mcquack.net/420/index.m3u8
-#EXTINF:-1 group-title="Детские", Fan (2)
-http://t1.tv.kvant-telecom.ru:8080/fan/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Детские", Мама
 https://stream8.cinerama.uz/1244/index.m3u8
 #EXTINF:-1 group-title="Детские", Мама (2)
@@ -581,8 +577,6 @@ http://stream.mcquack.net/79/index.m3u8
 http://iptv.mega.net.ru:8888/Mama/index.m3u8
 #EXTINF:-1 group-title="Детские", Детский мир
 http://iptv.mega.net.ru:8888/Detskii_mir/index.m3u8
-#EXTINF:-1 group-title="Детские", Baby Time
-http://109.248.236.51/baby_time/video.m3u8
 #EXTINF:-1 group-title="Детские", Ducktv
 https://stream8.cinerama.uz/1271/index.m3u8
 #EXTINF:-1 group-title="Детские", NickToons
@@ -591,8 +585,6 @@ https://stream8.cinerama.uz/1502/index.m3u8
 https://stream8.cinerama.uz/1500/index.m3u8
 #EXTINF:-1 group-title="Детские", Nickelodeon (2)
 http://stream.mcquack.net/443/index.m3u8
-#EXTINF:-1 group-title="Детские", Nickelodeon (USA)
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 group-title="Детские", Nick Jr.
 http://stream.mcquack.net/220/index.m3u8
 #EXTINF:-1 group-title="Детские", Смайл
@@ -600,7 +592,7 @@ https://stream8.cinerama.uz/1425/index.m3u8
 #EXTINF:-1 group-title="Детские", Смайл (2)
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/index.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Network
-http://176.118.197.101/Cartoon_Network/index.m3u8
+https://bl.rutube.ru/livestream/d2119cfb95146b3983cf05c1fe35e66f/index.m3u8?s=SBAsUrxODR6nk6ktHKTpoQ&e=2090795468&scheme=https
 #EXTINF:-1 group-title="Детские", Cartoon Classics
 http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 #EXTINF:-1 group-title="Детские", Шаян
@@ -633,8 +625,6 @@ https://stream8.cinerama.uz/1270/index.m3u8
 https://stream8.cinerama.uz/1441/index.m3u8
 #EXTINF:-1 group-title="Детские", Tiji (2)
 http://stream.mcquack.net/111/index.m3u8
-#EXTINF:-1 group-title="Детские", Tiji (3)
-https://flussonic.mkpnet.ru/tv-3848dd8604a262e0/video.m3u8
 #EXTINF:-1 group-title="Детские", Gulli Girl
 https://stream8.cinerama.uz/1445/index.m3u8
 #EXTINF:-1 group-title="Детские", Gulli Girl (2)
@@ -1038,12 +1028,16 @@ http://185.23.80.23:8080/ART/index.m3u8
 http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Классика Кино
 https://serv25.vintera.tv/dai/k_kino_dai_scte-35/playlist.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Классика Кино (2)
+https://stitch.teletarget.ru/vintera/movieclassic/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Тайна
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=hCc3BqSwghCQ0GRhDJ967A&e=2070623490&scheme=https
 #EXTINF:-1 group-title="Кино и сериалы", Plan B
 http://iptv.mega.net.ru:8888/plan_b_hd/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", KinoLiving
 http://stream.mcquack.net/445/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Fresh Fantastic
+http://stream.mcquack.net/429/index.m3u8
 
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Kinowalk
 https://kinowalk.hopto.org/kinowalk_live
