@@ -639,8 +639,6 @@ https://media.16pm.ru/live/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Арена
 http://31.210.208.171:8080/match_arena/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Спортивные", Матч! Страна
-http://gr.seetv.cc/play/134/D70CC021CA87DF2/video.m3u8
-#EXTINF:-1 group-title="Спортивные", Матч! Страна (2)
 http://stream.mcquack.net/143/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Планета
 https://stream8.cinerama.uz/1243/index.m3u8
@@ -662,18 +660,10 @@ http://stream.mcquack.net/492/index.m3u8
 http://stream.mcquack.net/491/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Окко Прайм Спорт
 http://stream.mcquack.net/493/index.m3u8
-#EXTINF:-1 group-title="Спортивные", Бокс
-http://158.101.222.193:88/georgia_play.php?id=boxtv
-#EXTINF:-1 group-title="Спортивные", Бокс (2)
-http://tinyurl.com/TvZaTak65?id=boxtv
-#EXTINF:-1 group-title="Спортивные", Бокс (3)
-http://37.186.70.39:40/play/85/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Удар Udar
 http://5.188.159.128:8070/udar/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Удар Udar (2)
 http://stream.mcquack.net/279/index.m3u8
-#EXTINF:-1 group-title="Спортивные", Футбол
-http://radio.tvs.by/Setanta1/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Волейбол
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=5eCXZGvblic9uGykEPvBYw&e=2082370462&scheme=https
 #EXTINF:-1 group-title="Спортивные", Eurosport 1
@@ -694,8 +684,6 @@ https://stream8.cinerama.uz/1264/index.m3u8
 http://stream.mcquack.net/235/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Sport 1 Baltic
 http://stream.mcquack.net/461/index.m3u8
-#EXTINF:-1 group-title="Спортивные", A21 Network
-https://tv.a21network.ru/content/37909/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Старт
 https://bl.webcaster.pro/media/playlist/api_free_fd14ed34164a52d1090e4cb9db93683f/4_79276517/480p/d33bbf3e6ac7c41524eae5d1c3d9258d/4873167902.m3u8
 #EXTINF:-1 group-title="Спортивные", Старт Баскет
@@ -711,8 +699,6 @@ http://stream.mcquack.net/333/index.m3u8
 #EXTINF:-1 group-title="Спортивные", MMA
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1 group-title="Спортивные", MMA (2)
-http://89.33.29.115:8080/M1_Global/index.m3u8
-#EXTINF:-1 group-title="Спортивные", MMA (3)
 https://stream8.cinerama.uz/1226/index.m3u8
 #EXTINF:-1 group-title="Спортивные", КХЛ KHL 
 https://stream8.cinerama.uz/1422/index.m3u8
