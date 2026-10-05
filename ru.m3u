@@ -840,8 +840,6 @@ https://stream8.cinerama.uz/1233/index.m3u8
 http://176.118.197.101/Kinomix/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс (3)
 http://stream.mcquack.net/133/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Киномикс (4)
-http://93.170.254.17/Kinomiks/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносвидание
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносвидание (2)
@@ -868,28 +866,18 @@ http://stream.mcquack.net/242/index.m3u8
 http://176.118.197.101/RodnoeKino/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Наше новое кино
 https://stream8.cinerama.uz/1051/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Наше новое кино (2)
-http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинопоказ
 https://stream8.cinerama.uz/1057/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинопоказ (2)
 http://stream.mcquack.net/64/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинопоказ (3)
-http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Кинопоказ (4)
 http://176.118.197.101/Kinopokaz/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Любимое кино
 http://176.118.197.101/LubimoeKino/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Hollywood
 https://stream8.cinerama.uz/1443/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Hollywood (2)
-http://iptv.mega.net.ru:8888/Hollywood/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Иллюзион+
 http://176.118.197.101/Illuzion+/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Иллюзион+ (2)
-http://iptv.mega.net.ru:8888/Illuzion_/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Русский Иллюзион
-http://89.33.29.115:8080/Russkiy_illyuzion/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Всё ТВ HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Новый Русский
