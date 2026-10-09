@@ -880,22 +880,14 @@ https://stream8.cinerama.uz/1443/index.m3u8
 http://176.118.197.101/Illuzion+/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Всё ТВ HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Новый Русский
-https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский бестселлер
 http://stream.mcquack.net/208/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Индийское кино
 https://stream8.cinerama.uz/1060/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Индийское кино (2)
-http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Еврокино
 http://176.118.197.101/Evrokino/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Еврокино (2)
 http://stream.mcquack.net/385/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Индия
-http://89.33.29.115:8080/ZeeTV/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Индия (2)
-http://t1.tv.kvant-telecom.ru:8080/indiya/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино и сериалы", Советское кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-0 group-title="Кино и сериалы", Следствие вели...
@@ -908,30 +900,16 @@ https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Смотрим
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", NSC
-http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", TV12
 http://185.221.213.254:8080/Mafia2/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Dunyo bo'ylab
 https://stream8.cinerama.uz/1006/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", 312
-http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", 312 Кино
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Хит
 http://stream.mcquack.net/363/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Хит (2)
-http://hls127.freeott.top:8080/XitHD/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Bolt
 http://stream.mcquack.net/73/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Сапфир
-http://77.232.131.211/Sapfir/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Сапфир (2)
-http://iptv.mega.net.ru:8888/Fox_Life/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Bollywood
 https://stream8.cinerama.uz/1444/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Bollywood (2)
-http://iptv.mega.net.ru:8888/Bollywood_HD/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Blokbaster
 http://stream.mcquack.net/364/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Душевное
@@ -947,19 +925,13 @@ http://stream.mcquack.net/362/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", ТВ21
 http://stream.mcquack.net/152/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Арт
-http://89.104.114.24:8080/art/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Арт (2)
 http://185.23.80.23:8080/ART/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Про любовь
-http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Классика Кино
 https://serv25.vintera.tv/dai/k_kino_dai_scte-35/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Классика Кино (2)
 https://stitch.teletarget.ru/vintera/movieclassic/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Тайна
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=hCc3BqSwghCQ0GRhDJ967A&e=2070623490&scheme=https
-#EXTINF:-1 group-title="Кино и сериалы", Plan B
-http://iptv.mega.net.ru:8888/plan_b_hd/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", KinoLiving
 http://stream.mcquack.net/445/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Fresh Fantastic
