@@ -710,6 +710,8 @@ http://stream.mcquack.net/178/index.m3u8
 https://stitch.teletarget.ru/vintera/motodrive/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Trace Sport Stars
 https://stream8.cinerama.uz/1274/index.m3u8
+#EXTINF:-1 group-title="Спортивные", WWE
+https://jmp2.uk/rok-ac0caef9123a35df3b884b139340a597.m3u8
 
 #EXTINF:-1 group-title="Развлекательные", Продвижение
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
@@ -1039,8 +1041,6 @@ https://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8
 https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Catcast", Детское кино
 https://kino-1.catcast.tv/content/40427/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Catcast", Детское кино International
-https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Catcast", КиноАзия
 https://cityeden.catcast.tv/content/34393/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Catcast", КиноКлассика
@@ -1049,8 +1049,6 @@ https://cityeden.catcast.tv/content/34185/index.m3u8
 https://cityeden.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Catcast", КиноЭкшен
 https://cityeden.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Catcast", АвтоГид
-https://cityeden.catcast.tv/content/47515/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Catcast", КиноАрт
 https://cityeden.catcast.tv/content/38398/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Catcast", КиноДетектив
@@ -1073,18 +1071,10 @@ https://v2.catcast.tv/content/34114/index.m3u8
 https://cityeden.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Catcast", TVBoom
 https://kb.catcast.tv/content/49702/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Catcast", WWE
-https://s.catcast.tv/content/42608/index.m3u8?token=62999a1226a79bd81913690e61e96925
-#EXTINF:-1 group-title="Кинозалы Catcast", Страх
-https://s.catcast.tv/content/34816/index.m3u8?token=777c49256c8dec1d10fe434b5e315319
-#EXTINF:-1 group-title="Кинозалы Catcast", МультСказки
-https://s.catcast.tv/content/38850/index.m3u8?token=6db8031e089a7f737fa5d59c91c34f33
-#EXTINF:-1 group-title="Кинозалы Catcast", Фантастика
-https://s.catcast.tv/content/39533/index.m3u8?token=d4837f8aa1820c9d8e567edb9eb1b398
-#EXTINF:-1 group-title="Кинозалы Catcast", Все ТВ
-https://s.catcast.tv/content/43064/index.m3u8?token=8458ac70c9dca585e434dacbaae2fc47
-#EXTINF:-1 group-title="Кинозалы Catcast", SeleCao
-https://s2.catcast.tv/content/42698/index.m3u8?token=7842d21896ec1babd78807b981e7bdec
+#EXTINF:-1 group-title="Кинозалы Catcast", Андийцы
+https://v2.catcast.tv/content/34114/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Catcast", HGTN
+https://v2.catcast.tv/content/34251/index.m3u8
 
 #EXTINF:-1 group-title="Кинозалы", Шоу Бенни Хилла
 https://lbgo.bozztv.com/07/ushba62/index.m3u8
