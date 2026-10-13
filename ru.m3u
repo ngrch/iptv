@@ -70,8 +70,6 @@ http://stream.mcquack.net/138/index.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="domashny" tvg-logo="https://ngrch.github.io/iptv/logos/domashniy.png", Домашний (2)
 http://stream.mcquack.net/227/index.m3u8
-#EXTINF:-1 group-title="Основные" tvg-id="domashny" tvg-logo="https://ngrch.github.io/iptv/logos/domashniy.png", Домашний (3)
-http://iptv.mega.net.ru:8888/domashniy_hd/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="tv3-ru" tvg-logo="https://ngrch.github.io/iptv/logos/tv3.png", ТВ3
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="tv3-ru" tvg-logo="https://ngrch.github.io/iptv/logos/tv3.png", ТВ3 (2)
@@ -541,10 +539,6 @@ http://stream.mcquack.net/420/index.m3u8
 https://stream8.cinerama.uz/1244/index.m3u8
 #EXTINF:-1 group-title="Детские", Мама (2)
 http://stream.mcquack.net/79/index.m3u8
-#EXTINF:-1 group-title="Детские", Мама (3)
-http://iptv.mega.net.ru:8888/Mama/index.m3u8
-#EXTINF:-1 group-title="Детские", Детский мир
-http://iptv.mega.net.ru:8888/Detskii_mir/index.m3u8
 #EXTINF:-1 group-title="Детские", Ducktv
 https://stream8.cinerama.uz/1271/index.m3u8
 #EXTINF:-1 group-title="Детские", NickToons
@@ -573,8 +567,6 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 https://stream8.cinerama.uz/1440/index.m3u8
 #EXTINF:-1 group-title="Детские", МультСказки
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 group-title="Детские", Мультимузыка
-http://iptv.mega.net.ru:8888/Mul_timuzika/index.m3u8
 #EXTINF:-1 group-title="Детские", NikNik
 https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
 #EXTINF:-1 group-title="Детские", Рыжий
@@ -699,8 +691,6 @@ http://stream.mcquack.net/168/index.m3u8
 https://stream8.cinerama.uz/1249/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Сарафан (2)
 http://stream.mcquack.net/81/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", Сарафан (3)
-http://iptv.mega.net.ru:8888/Sarafan/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Теледом
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 group-title="Развлекательные", Тео-ТВ
@@ -1145,10 +1135,6 @@ https://stream8.cinerama.uz/1430/index.m3u8
 https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Авто 24 (3)
 http://stream.mcquack.net/78/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Авто 24 (4)
-http://iptv.mega.net.ru:8888/Avto24/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Поехали!
-http://iptv.mega.net.ru:8888/Poehali/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Техно 24 Т24
 http://158.101.222.193:88/georgia_play.php?id=24techno
 #EXTINF:-1 group-title="Познавательные", Техно 24 Т24 (2)
@@ -1165,8 +1151,6 @@ https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 https://origin5.mediacdn.ru/live/brics/index.m3u8
 #EXTINF:-1 group-title="Познавательные", BRICS (3)
 http://185.23.80.23:8080/TVBRICS/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Terra
-http://iptv.mega.net.ru:8888/National_Geographic/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Terra Incognita
 https://stitch.teletarget.ru/vintera/terra/index.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic
@@ -1189,8 +1173,6 @@ https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
 https://stream8.cinerama.uz/1427/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Усадьба (2)
 http://stream.mcquack.net/211/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Усадьба (3)
-http://iptv.mega.net.ru:8888/Usad_ba_TV/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Загородная жизнь
 http://185.57.68.33/40/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Загородный
@@ -1231,8 +1213,6 @@ https://stream8.cinerama.uz/1411/index.m3u8
 http://stream.mcquack.net/225/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя стихия
 http://stream.mcquack.net/141/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Моя стихия (2)
-http://iptv.mega.net.ru:8888/Moya_stihiya/index.m3u8
 #EXTINF:-1 group-title="Познавательные", 555 Hunt Fishing TV
 http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", НТВ Право
@@ -1255,28 +1235,20 @@ https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=Qz
 https://stream8.cinerama.uz/1038/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Охота и рыбалка (2)
 http://stream.mcquack.net/155/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Охота и рыбалка (3)
-http://iptv.mega.net.ru:8888/Ohota_i_Ribalka/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Охота и рыбалка (4)
 http://185.121.1.163:8083/OhotaRybalka/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Диалоги о рыбалке
 http://stream.mcquack.net/264/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Диалоги о рыбалке (2)
-http://iptv.mega.net.ru:8888/Dialogi_o_ribalke/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Дикий
 https://stream8.cinerama.uz/1230/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Мужской
 https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Мужской (2)
-http://iptv.mega.net.ru:8888/Mugskoi/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Мужской (3)
 http://89.33.29.115:8080/Muzhskoy/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Телепутешествия
 http://89.33.29.115:8080/Teleputeshestviya/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета
 https://stream8.cinerama.uz/1247/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Моя планета (2)
-http://iptv.mega.net.ru:8888/Moa_Planeta/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju+ Planet
 http://stream.mcquack.net/240/index.m3u8
 #EXTINF:-1 group-title="Познавательные", One Planet
@@ -1303,8 +1275,6 @@ https://stream8.cinerama.uz/1415/index.m3u8
 https://stream8.cinerama.uz/1404/index.m3u8
 #EXTINF:-1 group-title="Познавательные", В мире животных (2)
 http://stream.mcquack.net/241/index.m3u8
-#EXTINF:-1 group-title="Познавательные", В мире животных (3)
-http://iptv.mega.net.ru:8888/V_MIRE_GIVOTNIH_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", 365 дней
 http://stream.mcquack.net/70/index.m3u8
 #EXTINF:-1 group-title="Познавательные", 365 дней (2)
@@ -1323,8 +1293,6 @@ https://api.alpaca.t62a.com/hls/9110/index.m3u8
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:-1 group-title="Познавательные", Точка Отрыва
 https://stream8.cinerama.uz/1031/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Точка Отрыва (2)
-http://iptv.mega.net.ru:8888/Tochka_otryva/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Da Vinci
 https://stream8.cinerama.uz/1231/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Неизвестная Планета
@@ -1347,22 +1315,16 @@ https://stream8.cinerama.uz/1419/index.m3u8
 http://89.33.29.115:8080/Zhivi/index.m3u8
 #EXTINF:-1 group-title="Познавательные", RTG
 http://stream.mcquack.net/164/index.m3u8
-#EXTINF:-1 group-title="Познавательные", RTG (2)
-http://iptv.mega.net.ru:8888/RTG_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Наука
 https://stream8.cinerama.uz/1248/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Наука (2)
 http://stream.mcquack.net/125/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Наука (3)
-http://iptv.mega.net.ru:8888/Nauka_2_0/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Вопросы и ответы
 https://stream8.cinerama.uz/1429/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Вопросы и ответы (2)
 http://stream.mcquack.net/76/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Домашние Животные
 https://stream8.cinerama.uz/1426/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Домашние Животные (2)
-http://iptv.mega.net.ru:8888/Domasnie_givotnie/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Доктор
 https://stream8.cinerama.uz/1409/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Доктор (2)
@@ -1383,8 +1345,6 @@ https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/index.m3u8
 https://stream8.cinerama.uz/1449/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Телекафе
 https://stream8.cinerama.uz/1035/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Телекафе (2)
-http://iptv.mega.net.ru:8888/Telekafe/index.m3u8
 #EXTINF:-1 group-title="Познавательные", RAZ 1
 http://stream.mcquack.net/463/index.m3u8
 #EXTINF:-1 group-title="Познавательные", RAZ 2
