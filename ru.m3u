@@ -237,6 +237,8 @@ https://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/index.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png", Мир +2 (2)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
+#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png", Мир +2 (3)
+https://tvcdn01.oktv.kz/tv/mir/index.m3u8
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png", Мир +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png", Мир +4 (2)
@@ -404,8 +406,6 @@ https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-id="mir-24" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png", Мир 24 (2)
 https://stream8.cinerama.uz/1219/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png", Мир International
-https://tvcdn01.oktv.kz/tv/mir/index.m3u8
 
 #EXTINF:-1 group-title="Популярные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png", 2x2 (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
