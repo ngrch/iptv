@@ -244,7 +244,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png", Мир +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png", Мир +7 (2)
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
 
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png", ТНТ (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
@@ -939,6 +939,18 @@ http://stream.mcquack.net/445/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Fresh Fantastic
 http://stream.mcquack.net/429/index.m3u8
 
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Disney XD
+https://kinowalk.hopto.org/disneyxd_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", JTX
+https://kinowalk.hopto.org/jtxonline_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", FoxKids
+https://kinowalk.hopto.org/foxkids_remastered_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Мультфильмы VHS
+https://kinowalk.hopto.org/myvhs_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", grislytoe
+https://kinowalk.hopto.org/grislytoe_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", ВсеТВ
+https://kinowalk.hopto.org/maldrvsetv_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Kinowalk
 https://kinowalk.hopto.org/kinowalk_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Legion
@@ -973,8 +985,6 @@ https://kinowalk.hopto.org/serial4u_live
 https://kinowalk.hopto.org/kinouzhas_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Alex.Films
 https://kinowalk.hopto.org/alex.films_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", JTX Online
-https://kinowalk.hopto.org/jtxonline_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Первый ряд
 https://kinowalk.hopto.org/perviryad_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Baragozz
@@ -1002,6 +1012,8 @@ https://kinowalk.hopto.org/equilibrium_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", ChowAmigo
 https://kinowalk.hopto.org/chowamigo_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", TopMoment
+https://kinowalk.hopto.org/topmoment_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", TopMoment Live
 https://kinowalk.hopto.org/topmomentlive_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Назад в СССР
 https://kinowalk.hopto.org/backtotheussr_live
@@ -1021,8 +1033,48 @@ https://kinowalk.hopto.org/zsmedia_live
 https://kinowalk.hopto.org/priest_kod_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Kinofon
 https://kinowalk.hopto.org/kinofon_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", KinoMix
+#EXTINF:-1 group-title="Кинозалы Kinowalk", KinoMix 1
 https://kinowalk.hopto.org/yurich_kinomix_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", KinoMix 2
+https://kinowalk.hopto.org/dak3767_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Тоха Киноман
+https://kinowalk.hopto.org/kinomania_stream_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Тоха Стрим
+https://kinowalk.hopto.org/toxa_stream_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Осторожно Модерн
+https://kinowalk.hopto.org/ostorozhnomodern2_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", У края бездны
+https://kinowalk.hopto.org/ddator_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", MAX
+https://kinowalk.hopto.org/maximum_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", NEZABUDKA
+https://kinowalk.hopto.org/nezabudka_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", FRXNKL1N
+https://kinowalk.hopto.org/frxnkl1n_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Кладовая Фильмов
+https://kinowalk.hopto.org/skladfilm_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", RE_BOOT
+https://kinowalk.hopto.org/re_boot_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", 1st_witch
+https://kinowalk.hopto.org/witch_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Мир Ехо
+https://kinowalk.hopto.org/mirdobro_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", film4khdLIVE
+https://kinowalk.hopto.org/film4khdclub_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Эра VHS
+https://kinowalk.hopto.org/vhs90s_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", АPRICUS
+https://kinowalk.hopto.org/apricus_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", ВИДЕОКАССЕТА
+https://kinowalk.hopto.org/vhs90e_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Фильмоскоп
+https://kinowalk.hopto.org/filmscope_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Х-TV
+https://kinowalk.hopto.org/durkalive_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Kira_freak
+https://kinowalk.hopto.org/kirafreak_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Dimpon
+http://kinowalk.hopto.org/dimpon_live
 
 #EXTINF:-1 group-title="Кинозалы Смотрим", 100% Детское
 https://stream.smotrim.ru/hls3/fasttv05/playlist_3.m3u8
@@ -1065,8 +1117,6 @@ https://cityeden.catcast.tv/content/45268/index.m3u8
 https://cityeden.catcast.tv/content/47519/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Catcast", Рецепты Гурмана
 https://cityeden.catcast.tv/content/47516/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Catcast", Андийцы
-https://v2.catcast.tv/content/34114/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Catcast", ТелеНовелла
 https://cityeden.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Catcast", TVBoom
@@ -1398,8 +1448,6 @@ https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Религиозные", TBN Baltia
 http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
-#EXTINF:-1 group-title="Религиозные", ТБВ
-https://bv.mediacdn.ru/cdn/blagvest/playlist.m3u8
 #EXTINF:-1 group-title="Религиозные", Life TV
 http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
 #EXTINF:-1 group-title="Религиозные", Благая Весть
