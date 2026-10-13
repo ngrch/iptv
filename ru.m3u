@@ -260,181 +260,149 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/muz_tv.png", Муз ТВ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/mosfilm.png", Мосфильм Золотая коллекция
+#EXTINF:-1 group-title="Популярные" tvg-id="mosfilm" tvg-logo="https://ngrch.github.io/iptv/logos/mosfilm.png", Мосфильм Золотая коллекция
 http://stream.mcquack.net/369/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/mosfilm.png", Мосфильм Золотая коллекция (2)
+#EXTINF:-1 group-title="Популярные" tvg-id="mosfilm" tvg-logo="https://ngrch.github.io/iptv/logos/mosfilm.png", Мосфильм Золотая коллекция (2)
 http://185.121.1.163:8083/Mosfilm/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/pobeda.png", Победа
+#EXTINF:-1 group-title="Популярные" tvg-id="pobeda" tvg-logo="https://ngrch.github.io/iptv/logos/pobeda.png", Победа
 https://streaming.thestream.cyou/live/43.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/pobeda.png", Победа (2)
-http://iptv.mega.net.ru:8888/Pobeda/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/dom_kino.png", Дом Кино
+#EXTINF:-1 group-title="Популярные" tvg-id="domkino" tvg-logo="https://ngrch.github.io/iptv/logos/dom_kino.png", Дом Кино
 https://streaming.thestream.cyou/live/44.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/dom_kino.png", Дом Кино (2)
+#EXTINF:-1 group-title="Популярные" tvg-id="domkino" tvg-logo="https://ngrch.github.io/iptv/logos/dom_kino.png", Дом Кино (2)
 https://stream8.cinerama.uz/1054/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/dom_kino.png", Дом Кино (3)
-http://iptv.mega.net.ru:8888/Dom_kino/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/dom_kino.png", Дом Кино International
+#EXTINF:-1 group-title="Популярные" tvg-id="domkino-int" tvg-logo="https://ngrch.github.io/iptv/logos/dom_kino.png", Дом Кино International
 http://stream.mcquack.net/236/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/dom_premium.png", Дом Кино Премиум
+#EXTINF:-1 group-title="Популярные" tvg-id="domkino-premium" tvg-logo="https://ngrch.github.io/iptv/logos/dom_premium.png", Дом Кино Премиум
 http://stream.mcquack.net/108/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/dom_premium.png", Дом Кино Премиум (2)
-http://iptv.mega.net.ru:8888/Dom_Kino_Premium_HD/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/kinokomedia.png", Кинокомедия
+#EXTINF:-1 group-title="Популярные" tvg-id="kinokomedia" tvg-logo="https://ngrch.github.io/iptv/logos/kinokomedia.png", Кинокомедия
 https://stream8.cinerama.uz/1232/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/kinokomedia.png", Кинокомедия (2)
+#EXTINF:-1 group-title="Популярные" tvg-id="kinokomedia" tvg-logo="https://ngrch.github.io/iptv/logos/kinokomedia.png", Кинокомедия (2)
 http://176.118.197.101/Kinokomediya/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/kinokomedia.png", Кинокомедия (3)
+#EXTINF:-1 group-title="Популярные" tvg-id="kinokomedia-int" tvg-logo="https://ngrch.github.io/iptv/logos/kinokomedia.png", Кинокомедия International
 http://stream.mcquack.net/265/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/viju_tv1000.png", Viju TV1000
-https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/viju_tv1000.png", Viju TV1000 (2)
+#EXTINF:-1 group-title="Популярные" tvg-id="tv1000" tvg-logo="https://ngrch.github.io/iptv/logos/viju_tv1000.png", Viju TV1000
 https://stream8.cinerama.uz/1058/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/viju_tv1000.png", Viju TV1000 (3)
+#EXTINF:-1 group-title="Популярные" tvg-id="tv1000" tvg-logo="https://ngrch.github.io/iptv/logos/viju_tv1000.png", Viju TV1000 (2)
 http://stream.mcquack.net/110/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/viju_russkoe.png", Viju TV1000 Русское
+#EXTINF:-1 group-title="Популярные" tvg-id="tv1000-russkoe-kino" tvg-logo="https://ngrch.github.io/iptv/logos/viju_russkoe.png", Viju TV1000 Русское
 https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/viju_russkoe.png", Viju TV1000 Русское (2)
+#EXTINF:-1 group-title="Популярные" tvg-id="tv1000-russkoe-kino" tvg-logo="https://ngrch.github.io/iptv/logos/viju_russkoe.png", Viju TV1000 Русское (2)
 https://stream8.cinerama.uz/1059/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/viju_russkoe.png", Viju TV1000 Русское (3)
-http://iptv.mega.net.ru:8888/TV1000_Russkoe_kino/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/viju_action.png", Viju TV1000 Action
+#EXTINF:-1 group-title="Популярные" tvg-id="tv1000-action" tvg-logo="https://ngrch.github.io/iptv/logos/viju_action.png", Viju TV1000 Action
 https://stream8.cinerama.uz/1225/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/viju_action.png", Viju TV1000 Action (2)
+#EXTINF:-1 group-title="Популярные" tvg-id="tv1000-action" tvg-logo="https://ngrch.github.io/iptv/logos/viju_action.png", Viju TV1000 Action (2)
 http://stream.mcquack.net/100/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/viju_action.png", Viju TV1000 Action (3)
+#EXTINF:-1 group-title="Популярные" tvg-id="tv1000-action" tvg-logo="https://ngrch.github.io/iptv/logos/viju_action.png", Viju TV1000 Action (3)
 https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/viju_action.png", Viju TV1000 Action (4)
-http://89.33.29.115:8080/TV1000_Action/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/viju_explore.png", Viju Explore
+#EXTINF:-1 group-title="Популярные" tvg-id="viasat-explore" tvg-logo="https://ngrch.github.io/iptv/logos/viju_explore.png", Viju Explore
 http://stream.mcquack.net/239/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/viju_explore.png", Viju Explore (2)
+#EXTINF:-1 group-title="Популярные" tvg-id="viasat-explore" tvg-logo="https://ngrch.github.io/iptv/logos/viju_explore.png", Viju Explore (2)
 https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/viju_history.png", Viju History
+#EXTINF:-1 group-title="Популярные" tvg-id="viasat-history" tvg-logo="https://ngrch.github.io/iptv/logos/viju_history.png", Viju History
 https://stream8.cinerama.uz/1046/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/viju_history.png", Viju History (2)
+#EXTINF:-1 group-title="Популярные" tvg-id="viasat-history" tvg-logo="https://ngrch.github.io/iptv/logos/viju_history.png", Viju History (2)
 http://stream.mcquack.net/101/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/viju_history.png", Viju History (3)
+#EXTINF:-1 group-title="Популярные" tvg-id="viasat-history" tvg-logo="https://ngrch.github.io/iptv/logos/viju_history.png", Viju History (3)
 http://178.124.179.122/HistoryHD/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/viju_history.png", Viju History (4)
+#EXTINF:-1 group-title="Популярные" tvg-id="viasat-history" tvg-logo="https://ngrch.github.io/iptv/logos/viju_history.png", Viju History (4)
 http://flussonic.mkpnet.ru/tv-687ba838ca927b9a/video.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/viju_nature.png", Viju Nature
+#EXTINF:-1 group-title="Популярные" tvg-id="viasat-nature" tvg-logo="https://ngrch.github.io/iptv/logos/viju_nature.png", Viju Nature
 https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/viju_nature.png", Viju Nature (2)
+#EXTINF:-1 group-title="Популярные" tvg-id="viasat-nature" tvg-logo="https://ngrch.github.io/iptv/logos/viju_nature.png", Viju Nature (2)
 https://stream8.cinerama.uz/1228/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/kinopremiera.png", Кинопремьера
-https://stream8.cinerama.uz/1207/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/kinopremiera.png", Кинопремьера (2)
+#EXTINF:-1 group-title="Популярные" tvg-id="kinopremiera-hd" tvg-logo="https://ngrch.github.io/iptv/logos/kinopremiera.png", Кинопремьера
 http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/kinopremiera.png", Кинопремьера (3)
+#EXTINF:-1 group-title="Популярные" tvg-id="kinopremiera-hd" tvg-logo="https://ngrch.github.io/iptv/logos/kinopremiera.png", Кинопремьера (2)
 http://185.121.1.163:8083/Kinopremyera/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/kinohit.png", Кинохит
-https://stream8.cinerama.uz/1055/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/kinohit.png", Кинохит (2)
+#EXTINF:-1 group-title="Популярные" tvg-id="kinopremiera-int" tvg-logo="https://ngrch.github.io/iptv/logos/kinopremiera.png", Кинопремьера International
+https://stream8.cinerama.uz/1207/index.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-id="kinoxit" tvg-logo="https://ngrch.github.io/iptv/logos/kinohit.png", Кинохит
 http://stream.mcquack.net/126/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/kinohit.png", Кинохит (3)
-http://89.33.29.115:8080/Kinohit/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/kinoseria.png", Киносерия
+#EXTINF:-1 group-title="Популярные" tvg-id="kinoxit-int" tvg-logo="https://ngrch.github.io/iptv/logos/kinohit.png", Кинохит International
+https://stream8.cinerama.uz/1055/index.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-id="kinoseria" tvg-logo="https://ngrch.github.io/iptv/logos/kinoseria.png", Киносерия
 https://stream8.cinerama.uz/1235/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/kinoseria.png", Киносерия (2)
+#EXTINF:-1 group-title="Популярные" tvg-id="kinoseria" tvg-logo="https://ngrch.github.io/iptv/logos/kinoseria.png", Киносерия (2)
 http://176.118.197.101/Kinoseria/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/kinoseria.png", Киносерия (3)
-http://46.32.176.50/kinoseria/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/ru_detectiv.png", Русский детектив
+#EXTINF:-1 group-title="Популярные" tvg-id="russky-detektiv" tvg-logo="https://ngrch.github.io/iptv/logos/ru_detectiv.png", Русский детектив
 http://stream.mcquack.net/204/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/discovery.png", Discovery
+#EXTINF:-1 group-title="Популярные" tvg-id="discovery-channel" tvg-logo="https://ngrch.github.io/iptv/logos/discovery.png", Discovery
 https://stream8.cinerama.uz/1039/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/discovery.png", Discovery (2)
+#EXTINF:-1 group-title="Популярные" tvg-id="discovery-channel" tvg-logo="https://ngrch.github.io/iptv/logos/discovery.png", Discovery (2)
 http://stream.mcquack.net/177/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/discovery.png", Discovery (3)
-http://89.33.29.115:8080/Discovery_HD/index.m3u8
 #EXTINF:-1 group-title="Популярные", Investigation Discovery
 http://stream.mcquack.net/205/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png", 2x2
+#EXTINF:-1 group-title="Популярные" tvg-id="2na2" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png", 2x2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png", 2x2 (2)
+#EXTINF:-1 group-title="Популярные" tvg-id="2na2" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png", 2x2 (2)
 http://t1.tv.kvant-telecom.ru:8080/2x2/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png", 2x2 (3)
+#EXTINF:-1 group-title="Популярные" tvg-id="2na2" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png", 2x2 (3)
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png", 2x2 (4)
+#EXTINF:-1 group-title="Популярные" tvg-id="2na2" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png", 2x2 (4)
 http://185.23.80.23:8080/2x2/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/solnce.png", Солнце
+#EXTINF:-1 group-title="Популярные" tvg-id="solnce" tvg-logo="https://ngrch.github.io/iptv/logos/solnce.png", Солнце
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/solnce.png", Солнце (2)
+#EXTINF:-1 group-title="Популярные" tvg-id="solnce" tvg-logo="https://ngrch.github.io/iptv/logos/solnce.png", Солнце (2)
 https://tv.mediacdn.ru/live/solntse/playlist.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/mult.png", Мульт
+#EXTINF:-1 group-title="Популярные" tvg-id="mult" tvg-logo="https://ngrch.github.io/iptv/logos/mult.png", Мульт
 https://stream8.cinerama.uz/1246/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/mult.png", Мульт (2)
-http://iptv.mega.net.ru:8888/Mul_t/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/ani.png", Ani
+#EXTINF:-1 group-title="Популярные" tvg-id="ani" tvg-logo="https://ngrch.github.io/iptv/logos/ani.png", Ani
 http://t1.tv.kvant-telecom.ru:8080/ani/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/che.png", Че
+#EXTINF:-1 group-title="Популярные" tvg-id="che" tvg-logo="https://ngrch.github.io/iptv/logos/che.png", Че
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота
+#EXTINF:-1 group-title="Популярные" tvg-id="super" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота (2)
+#EXTINF:-1 group-title="Популярные" tvg-id="super" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота (2)
 http://stream.mcquack.net/269/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота (3)
+#EXTINF:-1 group-title="Популярные" tvg-id="super" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота (3)
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=2066519758&s=dmUf6BUQzDBTwtQOseAfog&scheme=https
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/tnt4.png", ТНТ4
+#EXTINF:-1 group-title="Популярные" tvg-id="tnt4" tvg-logo="https://ngrch.github.io/iptv/logos/tnt4.png", ТНТ4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/tnt4.png", ТНТ4 (2)
+#EXTINF:-1 group-title="Популярные" tvg-id="tnt4" tvg-logo="https://ngrch.github.io/iptv/logos/tnt4.png", ТНТ4 (2)
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=zhnm9INH7ysOhS2LQStm2A&e=2070623480&scheme=https
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/sts_love.png", СТС Love
+#EXTINF:-1 group-title="Популярные" tvg-id="sts-love" tvg-logo="https://ngrch.github.io/iptv/logos/sts_love.png", СТС Love
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/sts_love.png", СТС Love (2)
+#EXTINF:-1 group-title="Популярные" tvg-id="sts-love" tvg-logo="https://ngrch.github.io/iptv/logos/sts_love.png", СТС Love (2)
 https://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/you.png", Ю
+#EXTINF:-1 group-title="Популярные" tvg-id="yu" tvg-logo="https://ngrch.github.io/iptv/logos/you.png", Ю
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/you.png", Ю (2)
+#EXTINF:-1 group-title="Популярные" tvg-id="yu" tvg-logo="https://ngrch.github.io/iptv/logos/you.png", Ю (2)
 https://cdn-01.bonus-tv.ru/u/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/you.png", Ю (3)
+#EXTINF:-1 group-title="Популярные" tvg-id="yu" tvg-logo="https://ngrch.github.io/iptv/logos/you.png", Ю (3)
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/you.png", Ю (4)
+#EXTINF:-1 group-title="Популярные" tvg-id="yu" tvg-logo="https://ngrch.github.io/iptv/logos/you.png", Ю (4)
 https://flussonic.mkpnet.ru/tv-3b21847ece4b1c19/video.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/ru_tv.png", RU.TV РУ.ТВ
+#EXTINF:-1 group-title="Популярные" tvg-id="ru-tv" tvg-logo="https://ngrch.github.io/iptv/logos/ru_tv.png", RU.TV РУ.ТВ
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/ru_tv.png", RU.TV РУ.ТВ (2)
+#EXTINF:-1 group-title="Популярные" tvg-id="ru-tv" tvg-logo="https://ngrch.github.io/iptv/logos/ru_tv.png", RU.TV РУ.ТВ (2)
 https://stream8.cinerama.uz/1202/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/ru_tv.png", RU.TV РУ.ТВ (3)
+#EXTINF:-1 group-title="Популярные" tvg-id="ru-tv" tvg-logo="https://ngrch.github.io/iptv/logos/ru_tv.png", RU.TV РУ.ТВ (3)
 http://stream.mcquack.net/109/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/ru_tv.png", RU.TV РУ.ТВ (4)
-http://77.232.131.211/RUTV/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/istoriya.png", История
+#EXTINF:-1 group-title="Популярные" tvg-id="istoria" tvg-logo="https://ngrch.github.io/iptv/logos/istoriya.png", История
 https://stream8.cinerama.uz/1266/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/istoriya.png", История (2)
-http://iptv.mega.net.ru:8888/Istoria/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/vremya.png", Время
-http://89.33.29.115:8080/Vremya/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/ntv_hit.png", НТВ Хит
+#EXTINF:-1 group-title="Популярные" tvg-id="ntv-xit" tvg-logo="https://ngrch.github.io/iptv/logos/ntv_hit.png", НТВ Хит
 https://cdn.ntv.ru/th_hit/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/cinema.png", Cinema
+#EXTINF:-1 group-title="Популярные" tvg-id="cinema-ru" tvg-logo="https://ngrch.github.io/iptv/logos/cinema.png", Cinema
 http://176.118.197.101/Cinema/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/cinema.png", Cinema (2)
+#EXTINF:-1 group-title="Популярные" tvg-id="cinema-ru" tvg-logo="https://ngrch.github.io/iptv/logos/cinema.png", Cinema (2)
 https://stream8.cinerama.uz/1227/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/cinema.png", Cinema (3)
-http://iptv.mega.net.ru:8888/Cinema/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/nst.png", НСТ
+#EXTINF:-1 group-title="Популярные" tvg-id="nst" tvg-logo="https://ngrch.github.io/iptv/logos/nst.png", НСТ
 http://176.118.197.101/HCT/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/muzhskoe.png", Мужское кино
+#EXTINF:-1 group-title="Популярные" tvg-id="muzhskoe-kino" tvg-logo="https://ngrch.github.io/iptv/logos/muzhskoe.png", Мужское кино
 https://stream8.cinerama.uz/1237/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/muzhskoe.png", Мужское кино (2)
+#EXTINF:-1 group-title="Популярные" tvg-id="muzhskoe-kino" tvg-logo="https://ngrch.github.io/iptv/logos/muzhskoe.png", Мужское кино (2)
 http://stream.mcquack.net/107/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/solovyov.png", Соловьев.Live
-https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/m24.png", Москва 24 (М24)
+#EXTINF:-1 group-title="Популярные" tvg-id="moskva-24" tvg-logo="https://ngrch.github.io/iptv/logos/m24.png", Москва 24 (М24)
 https://stream.smotrim.ru/hls/moscow_24/playlist_3.m3u8
-#EXTINF:-1 group-title="Популярные", Москва Доверие
+#EXTINF:-1 group-title="Популярные" tvg-id="doverie", Москва Доверие
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
-#EXTINF:-1 group-title="Популярные", Москва Доверие (2)
+#EXTINF:-1 group-title="Популярные" tvg-id="doverie", Москва Доверие (2)
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/ctime.png", Настоящее время
+#EXTINF:-1 group-title="Популярные" tvg-id="nastoyaschee-vremia" tvg-logo="https://ngrch.github.io/iptv/logos/ctime.png", Настоящее время
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png", Мир 24
+#EXTINF:-1 group-title="Популярные" tvg-id="mir-24" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png", Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png", Мир 24 (2)
-https://uiptv.do.am/1ufc/112234126/playlist.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png", Мир 24 (3)
+#EXTINF:-1 group-title="Популярные" tvg-id="mir-24" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png", Мир 24 (2)
 https://stream8.cinerama.uz/1219/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png", Мир International
 https://tvcdn01.oktv.kz/tv/mir/index.m3u8
