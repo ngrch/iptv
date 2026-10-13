@@ -260,6 +260,30 @@ https://cityeden.catcast.tv/content/47400/index.m3u8
 https://cityeden.catcast.tv/content/34364/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Сиртаки Play
 https://cityeden.catcast.tv/content/46421/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", RetroMusic
+https://kinowalk.hopto.org/retromus_live
+#EXTINF:-1 group-title="Музыкальные", SANSEY_RU
+https://kinowalk.hopto.org/sansey_ru_live
+#EXTINF:-1 group-title="Музыкальные", CZM Music
+https://kinowalk.hopto.org/czmmusic_live
+#EXTINF:-1 group-title="Музыкальные", NZTV
+https://kinowalk.hopto.org/nztv_live
+#EXTINF:-1 group-title="Музыкальные", VB_EDH90sandDH90s
+https://kinowalk.hopto.org/vb_edh90sanddh90s_live
+#EXTINF:-1 group-title="Музыкальные", VB_GH_and_RandB
+https://kinowalk.hopto.org/gh_and_randb_live
+#EXTINF:-1 group-title="Музыкальные", VBRusDancePops80-90
+https://kinowalk.hopto.org/vbrusdancepops80_live
+#EXTINF:-1 group-title="Музыкальные", OldClip
+https://kinowalk.hopto.org/oldclip_live
+#EXTINF:-1 group-title="Музыкальные", bstmsc
+https://kinowalk.hopto.org/bstmsc_live
+#EXTINF:-1 group-title="Музыкальные", TechnoDanceMusic
+https://kinowalk.hopto.org/technodancemusic_live
+#EXTINF:-1 group-title="Музыкальные", Um!
+https://kinowalk.hopto.org/umelyiretro_live
+#EXTINF:-1 group-title="Музыкальные", МузCOVERрадио
+https://kinowalk.hopto.org/muzcoverradio_live
 #EXTINF:-1 group-title="Музыкальные", Vostok Восток
 http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
 #EXTINF:-1 group-title="Музыкальные", Black
