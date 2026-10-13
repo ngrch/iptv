@@ -254,6 +254,8 @@ https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
 https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
 #EXTINF:-1 group-title="Музыкальные", Cити Эдем Play
 https://cityeden.catcast.tv/content/34100/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Cити Эдем Классика
+https://cityeden.catcast.tv/content/47400/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Бирма Play
 https://cityeden.catcast.tv/content/34364/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Сиртаки Play
