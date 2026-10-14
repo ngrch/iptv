@@ -103,72 +103,72 @@ https://stream8.cinerama.uz/1200/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="muztv" tvg-logo="https://ngrch.github.io/iptv/logos/muz_tv.png", Муз ТВ (3)
 http://stream.mcquack.net/86/index.m3u8
 
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png", Первый (-1)
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="pervy-mn1" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png", Первый -1
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KLNG/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png", Первый (+1)
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="pervy-pl1" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png", Первый +1
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png", Первый (+2)
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="pervy-pl2" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png", Первый +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png", Первый (+3)
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="pervy-pl3" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png", Первый +3
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png", Первый (+4)
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="pervy-pl4" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png", Первый +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png", Первый (+5)
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="pervy-pl5" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png", Первый +5
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png", Первый (+6)
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="pervy-pl6" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png", Первый +6
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png", Первый (+8)
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="pervy-pl8" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png", Первый +8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
 
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_1.png", Россия 1 -1
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="rossia1-m1" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_1.png", Россия 1 -1
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_1.png", Россия 1 +1
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="rossia1-pl1" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_1.png", Россия 1 +1
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_1.png", Россия 1 +2
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="rossia1-pl2" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_1.png", Россия 1 +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_1.png", Россия 1 +3
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="rossia1-pl3" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_1.png", Россия 1 +3
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_1.png", Россия 1 +4
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="rossia1-pl4" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_1.png", Россия 1 +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_1.png", Россия 1 +5
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="rossia1-pl5" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_1.png", Россия 1 +5
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_UUDE_ROSSIA1_ULAN/variant.m3u8
 
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/ntv.png", НТВ +1
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="ntv-pl1" tvg-logo="https://ngrch.github.io/iptv/logos/ntv.png", НТВ +1
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/ntv.png", НТВ +1 (2)
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="ntv-pl1" tvg-logo="https://ngrch.github.io/iptv/logos/ntv.png", НТВ +1 (2)
 https://cdn.ntv.ru/ntv1/index.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/ntv.png", НТВ +2
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="ntv-pl2" tvg-logo="https://ngrch.github.io/iptv/logos/ntv.png", НТВ +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/ntv.png", НТВ +2 (2)
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="ntv-pl2" tvg-logo="https://ngrch.github.io/iptv/logos/ntv.png", НТВ +2 (2)
 https://cdn.ntv.ru/ntv2/index.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/ntv.png", НТВ +4
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="ntv-pl4" tvg-logo="https://ngrch.github.io/iptv/logos/ntv.png", НТВ +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/ntv.png", НТВ +4 (2)
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="ntv-pl4" tvg-logo="https://ngrch.github.io/iptv/logos/ntv.png", НТВ +4 (2)
 https://cdn.ntv.ru/ntv4/index.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/ntv.png", НТВ +7
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="ntv-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/ntv.png", НТВ +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/ntv.png", НТВ +7 (2)
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="ntv-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/ntv.png", НТВ +7 (2)
 https://cdn.ntv.ru/ntv7/index.m3u8
 
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/pyatiy.png", Пятый (+2)
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="5kanal-ru-pl2" tvg-logo="https://ngrch.github.io/iptv/logos/pyatiy.png", Пятый +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/pyatiy.png", Пятый (+4)
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="5kanal-ru-pl4" tvg-logo="https://ngrch.github.io/iptv/logos/pyatiy.png", Пятый +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/pyatiy.png", Пятый (+7)
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="5kanal-ru-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/pyatiy.png", Пятый +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
 
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_k.png", Россия К +2
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="kultura-pl2" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_k.png", Россия К +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_k.png", Россия К +4
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="kultura-pl4" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_k.png", Россия К +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_k.png", Россия К +7
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="kultura-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_k.png", Россия К +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
 
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/karusel.png", Карусель (+2)
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="karusel-pl2" tvg-logo="https://ngrch.github.io/iptv/logos/karusel.png", Карусель +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/karusel.png", Карусель (+4)
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="karusel-pl4" tvg-logo="https://ngrch.github.io/iptv/logos/karusel.png", Карусель +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/karusel.png", Карусель (+7)
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="karusel-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/karusel.png", Карусель +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/tv_tsentr.png", ТВ Центр (+2)
