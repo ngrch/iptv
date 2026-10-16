@@ -171,20 +171,20 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (региональные)" tvg-id="karusel-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/karusel.png", Карусель +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/tv_tsentr.png", ТВ Центр +2
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="tvcentr-pl2" tvg-logo="https://ngrch.github.io/iptv/logos/tv_tsentr.png", ТВ Центр +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/tv_tsentr.png", ТВ Центр +4
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="tvcentr-pl4" tvg-logo="https://ngrch.github.io/iptv/logos/tv_tsentr.png", ТВ Центр +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/tv_tsentr.png", ТВ Центр +7
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="tvcentr-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/tv_tsentr.png", ТВ Центр +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/tv_tsentr.png", ТВ Центр International
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="tvci" tvg-logo="https://ngrch.github.io/iptv/logos/tv_tsentr.png", ТВ Центр International
 https://stream8.cinerama.uz/1281/index.m3u8
 
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/ren_tv.png", РЕН ТВ +2
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="rentv-pl2" tvg-logo="https://ngrch.github.io/iptv/logos/ren_tv.png", РЕН ТВ +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/ren_tv.png", РЕН ТВ +4
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="rentv-pl4" tvg-logo="https://ngrch.github.io/iptv/logos/ren_tv.png", РЕН ТВ +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/ren_tv.png", РЕН ТВ +7
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="rentv-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/ren_tv.png", РЕН ТВ +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/spas.png", Спас +2
