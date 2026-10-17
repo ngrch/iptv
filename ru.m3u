@@ -187,39 +187,39 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (региональные)" tvg-id="rentv-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/ren_tv.png", РЕН ТВ +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/spas.png", Спас +2
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="spas-pl2" tvg-logo="https://ngrch.github.io/iptv/logos/spas.png", Спас +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/spas.png", Спас +7
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="spas-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/spas.png", Спас +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_7/variant.m3u8
 
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/sts.png", СТС +2
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="sts-pl2" tvg-logo="https://ngrch.github.io/iptv/logos/sts.png", СТС +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/sts.png", СТС +4
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="sts-pl4" tvg-logo="https://ngrch.github.io/iptv/logos/sts.png", СТС +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/sts.png", СТС +7
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="sts-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/sts.png", СТС +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/domashniy.png", Домашний +2
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="domashny-pl2" tvg-logo="https://ngrch.github.io/iptv/logos/domashniy.png", Домашний +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/domashniy.png", Домашний +4
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="domashny-pl4" tvg-logo="https://ngrch.github.io/iptv/logos/domashniy.png", Домашний +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/domashniy.png", Домашний +7
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="domashny-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/domashniy.png", Домашний +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/domashniy.png", Домашний International
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="domashny-int" tvg-logo="https://ngrch.github.io/iptv/logos/domashniy.png", Домашний International
 https://stream8.cinerama.uz/1436/index.m3u8
 
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/tv3.png", ТВ3 +2
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="tv3-ru-pl2" tvg-logo="https://ngrch.github.io/iptv/logos/tv3.png", ТВ3 +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/tv3.png", ТВ3 +4
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="tv3-ru-pl4" tvg-logo="https://ngrch.github.io/iptv/logos/tv3.png", ТВ3 +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/tv3.png", ТВ3 +7
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="tv3-ru-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/tv3.png", ТВ3 +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
 
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/pyatnica.png", Пятница +2
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="piatnica-pl2" tvg-logo="https://ngrch.github.io/iptv/logos/pyatnica.png", Пятница +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/pyatnica.png", Пятница +4
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="piatnica-pl4" tvg-logo="https://ngrch.github.io/iptv/logos/pyatnica.png", Пятница +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/pyatnica.png", Пятница +7
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="piatnica-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/pyatnica.png", Пятница +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
 
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/zvezda.png", Звезда +2
