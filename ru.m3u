@@ -222,42 +222,42 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (региональные)" tvg-id="piatnica-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/pyatnica.png", Пятница +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
 
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/zvezda.png", Звезда +2
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="zvezda-pl2" tvg-logo="https://ngrch.github.io/iptv/logos/zvezda.png", Звезда +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/zvezda.png", Звезда +4
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="zvezda-pl4" tvg-logo="https://ngrch.github.io/iptv/logos/zvezda.png", Звезда +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/zvezda.png", Звезда +7
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="zvezda-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/zvezda.png", Звезда +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/zvezda.png", Звезда Плюс
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="zvezda-plus" tvg-logo="https://ngrch.github.io/iptv/logos/zvezda.png", Звезда Плюс
 https://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/index.m3u8
 
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png", Мир +2
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="mir-pl2" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png", Мир +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png", Мир +2 (2)
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="mir-pl2" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png", Мир +2 (2)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png", Мир +2 (3)
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="mir-pl2" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png", Мир +2 (3)
 https://tvcdn01.oktv.kz/tv/mir/index.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png", Мир +4
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="mir-pl4" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png", Мир +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png", Мир +4 (2)
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="mir-pl4" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png", Мир +4 (2)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png", Мир +7
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="mir-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png", Мир +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png", Мир +7 (2)
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="mir-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png", Мир +7 (2)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
 
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png", ТНТ +2
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="tnt-pl2" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png", ТНТ +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png", ТНТ +4
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="tnt-pl4" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png", ТНТ +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png", ТНТ +7
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="tnt-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png", ТНТ +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/muz_tv.png", Муз ТВ +2
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="muztv-pl2" tvg-logo="https://ngrch.github.io/iptv/logos/muz_tv.png", Муз ТВ +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/muz_tv.png", Муз ТВ +4
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="muztv-pl4" tvg-logo="https://ngrch.github.io/iptv/logos/muz_tv.png", Муз ТВ +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/muz_tv.png", Муз ТВ +7
+#EXTINF:-1 group-title="Основные (региональные)" tvg-id="muztv-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/muz_tv.png", Муз ТВ +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 
 #EXTINF:-1 group-title="Популярные" tvg-id="mosfilm" tvg-logo="https://ngrch.github.io/iptv/logos/mosfilm.png", Мосфильм Золотая коллекция
