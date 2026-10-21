@@ -445,11 +445,11 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
 #EXTINF:-1 group-title="Популярные (региональные)" tvg-id="che-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/che.png", Че +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
 
-#EXTINF:-1 group-title="Популярные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/you.png", Ю +2
+#EXTINF:-1 group-title="Популярные (региональные)" tvg-id="yu-pl2" tvg-logo="https://ngrch.github.io/iptv/logos/you.png", Ю +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
-#EXTINF:-1 group-title="Популярные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/you.png", Ю +4
+#EXTINF:-1 group-title="Популярные (региональные)" tvg-id="yu-pl4" tvg-logo="https://ngrch.github.io/iptv/logos/you.png", Ю +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
-#EXTINF:-1 group-title="Популярные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/you.png", Ю +7
+#EXTINF:-1 group-title="Популярные (региональные)" tvg-id="yu-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/you.png", Ю +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 
 #EXTINF:-1 group-title="Информационные", РБК
