@@ -102,6 +102,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 https://stream8.cinerama.uz/1200/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="muztv" tvg-logo="https://ngrch.github.io/iptv/logos/muz_tv.png", Муз ТВ (3)
 http://stream.mcquack.net/86/index.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="muztv" tvg-logo="https://ngrch.github.io/iptv/logos/muz_tv.png", Муз ТВ (4)
+https://streaming102.interskytech.com/live/618.m3u8
 
 #EXTINF:-1 group-title="Основные (региональные)" tvg-id="pervy-mn1" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png", Первый -1
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KLNG/variant.m3u8
@@ -541,6 +543,8 @@ https://stream8.cinerama.uz/1244/index.m3u8
 http://stream.mcquack.net/79/index.m3u8
 #EXTINF:-1 group-title="Детские", Ducktv
 https://stream8.cinerama.uz/1271/index.m3u8
+#EXTINF:-1 group-title="Детские", Ducktv (2)
+https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Детские", NickToons
 https://stream8.cinerama.uz/1502/index.m3u8
 #EXTINF:-1 group-title="Детские", Nickelodeon
@@ -1023,7 +1027,7 @@ https://kinowalk.hopto.org/film4khdclub_live
 https://kinowalk.hopto.org/vhs90s_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", АPRICUS
 https://kinowalk.hopto.org/apricus_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", ВИДЕОКАССЕТА
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Видеокассета
 https://kinowalk.hopto.org/vhs90e_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Фильмоскоп
 https://kinowalk.hopto.org/filmscope_live
@@ -1563,6 +1567,8 @@ https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_TNT_BR/variant.m3u8
 https://bst.bratsk.ru/hls/bst2/index.m3u8
 #EXTINF:-1 group-title="Региональные", Башкортостан 24 | Башкортостан
 https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
+#EXTINF:-1 group-title="Региональные", Башкортостан 24 (2) | Башкортостан
+https://s1.gtrkrb.ru/540/b24-540.m3u8
 #EXTINF:-1 group-title="Региональные", Арис 24 | Башкортостан
 https://serv25.vintera.tv/test/aris/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", Арис 24 (2) | Башкортостан
