@@ -38,8 +38,6 @@ http://stream.mcquack.net/229/index.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="rossia-24" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_24.png", Россия 24 (2)
 https://stream8.cinerama.uz/1021/index.m3u8
-#EXTINF:-1 group-title="Основные" tvg-id="rossia-24" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_24.png", Россия 24 (3)
-http://77.232.131.211/Rossiya24/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="karusel" tvg-logo="https://ngrch.github.io/iptv/logos/karusel.png", Карусель
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="karusel" tvg-logo="https://ngrch.github.io/iptv/logos/karusel.png", Карусель (2)
@@ -48,8 +46,6 @@ https://stream8.cinerama.uz/1034/index.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="otr" tvg-logo="https://ngrch.github.io/iptv/logos/otr.png", ОТР (2)
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_OTR_KLNG_FILIAL/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-id="otr" tvg-logo="https://ngrch.github.io/iptv/logos/otr.png", ОТР (3)
-https://flussonic.mkpnet.ru/tv-22ed9087cd194d2b/video.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="tvcentr" tvg-logo="https://ngrch.github.io/iptv/logos/tv_tsentr.png", ТВ Центр
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="tvcentr" tvg-logo="https://ngrch.github.io/iptv/logos/tv_tsentr.png", ТВ Центр (2)
@@ -337,10 +333,8 @@ http://stream.mcquack.net/205/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-id="2na2" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png", 2x2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-id="2na2" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png", 2x2 (2)
-http://t1.tv.kvant-telecom.ru:8080/2x2/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Популярные" tvg-id="2na2" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png", 2x2 (3)
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
-#EXTINF:-1 group-title="Популярные" tvg-id="2na2" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png", 2x2 (4)
+#EXTINF:-1 group-title="Популярные" tvg-id="2na2" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png", 2x2 (3)
 http://185.23.80.23:8080/2x2/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-id="solnce" tvg-logo="https://ngrch.github.io/iptv/logos/solnce.png", Солнце
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
@@ -1245,10 +1239,6 @@ http://185.121.1.163:8083/OhotaRybalka/index.m3u8
 http://stream.mcquack.net/264/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Дикий
 https://stream8.cinerama.uz/1230/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Мужской
-https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
-#EXTINF:-1 group-title="Познавательные", Мужской (2)
-http://89.33.29.115:8080/Muzhskoy/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Телепутешествия
 http://89.33.29.115:8080/Teleputeshestviya/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета
@@ -1339,8 +1329,6 @@ http://45.11.139.43:8555/doctor/index.m3u8
 http://stream.mcquack.net/450/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живи активно
 https://stream8.cinerama.uz/1405/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Живи активно (2)
-https://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Полет
 http://stitch.teletarget.ru/vintera/flighttv/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Про бизнес
