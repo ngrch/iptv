@@ -30,7 +30,7 @@
 * [m3u.su](https://m3u.su)
 * [dmi3y-tv.online](http://dmi3y-tv.online)
 * [loganettv](https://github.com/loganettv/playlists)
-* [smolnp](https://github.com/smolnp/IPTVru)
+* [~~smolnp~~](https://github.com/smolnp/IPTVru)
 * [Dimonovich](https://github.com/Dimonovich/TV)
 * [Rafail1082GitHUB](https://github.com/Rafail1082GitHUB/rafail1982.ru)
 * [iptv-org](https://github.com/iptv-org/iptv)
