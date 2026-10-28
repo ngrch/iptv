@@ -488,6 +488,8 @@ http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 group-title="Информационные", Вместе РФ (2)
 https://cdn-01.bonus-tv.ru/vmesterf/index.m3u8
+#EXTINF:-1 group-title="Информационные", Вместе РФ (3)
+https://bl.rutube.ru/livestream/f6a6d5c955180d0d0f80c66d0b6150d3/index.m3u8?s=r8YslAvtusCqqUr9A7abNA&e=2093347118
 #EXTINF:-1 group-title="Информационные", CGTN Русский
 https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
 #EXTINF:-1 group-title="Информационные", CGTN Русский (2)
@@ -503,6 +505,8 @@ https://streaming.televizor-24-tochka.ru/live/213.m3u8
 #EXTINF:-1 group-title="Информационные", НТВ Мир (4)
 https://stream8.cinerama.uz/1434/index.m3u8
 #EXTINF:-1 group-title="Информационные", Россия РТР
+https://streaming.thestream.cyou/live/211.m3u8
+#EXTINF:-1 group-title="Информационные", Россия РТР (2)
 https://streaming.televizor-24-tochka.ru/live/211.m3u8
 #EXTINF:-1 group-title="Информационные", Euronews
 https://stream8.cinerama.uz/1024/index.m3u8
@@ -516,6 +520,8 @@ https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 #EXTINF:-1 group-title="Информационные", Союзный (2)
 http://radio.tvs.by/TRO/index.m3u8
+#EXTINF:-1 group-title="Информационные", Союзный (3)
+https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=vbnHdt_1ME7w0ugoljQnjg&e=2093347105&
 
 #EXTINF:-1 group-title="Детские", Маша и Медведь
 https://lbgo.bozztv.com/07/ushba79/index.m3u8
