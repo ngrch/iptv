@@ -565,8 +565,6 @@ https://shayan.bonus-tv.ru/cdn/shayan/index.m3u8
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="Детские", Мультиландия
 https://stream8.cinerama.uz/1440/index.m3u8
-#EXTINF:-1 group-title="Детские", МультСказки
-http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="Детские", NikNik
 https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
 #EXTINF:-1 group-title="Детские", Рыжий
@@ -614,12 +612,6 @@ http://stream.mcquack.net/112/index.m3u8
 http://stream.mcquack.net/188/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Премьер
 http://stream.mcquack.net/193/index.m3u8
-#EXTINF:-1 group-title="Спортивные", Окко Спорт
-http://stream.mcquack.net/492/index.m3u8
-#EXTINF:-1 group-title="Спортивные", Окко Футбол
-http://stream.mcquack.net/491/index.m3u8
-#EXTINF:-1 group-title="Спортивные", Окко Прайм Спорт
-http://stream.mcquack.net/493/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Удар Udar
 http://5.188.159.128:8070/udar/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Удар Udar (2)
@@ -628,12 +620,8 @@ http://stream.mcquack.net/279/index.m3u8
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=5eCXZGvblic9uGykEPvBYw&e=2082370462&scheme=https
 #EXTINF:-1 group-title="Спортивные", Eurosport 1
 http://178.134.1.158:8081/eurosport/index.m3u8
-#EXTINF:-1 group-title="Спортивные", Eurosport 1 (2)
-http://stream.mcquack.net/176/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Eurosport 2
 https://stream8.cinerama.uz/1452/index.m3u8
-#EXTINF:-1 group-title="Спортивные", Eurosport 2 (2)
-http://stream.mcquack.net/192/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Setanta Sports 1
 https://stream8.cinerama.uz/1263/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Setanta Sports 1 (2)
@@ -663,8 +651,6 @@ https://stream8.cinerama.uz/1226/index.m3u8
 #EXTINF:-1 group-title="Спортивные", КХЛ KHL 
 https://stream8.cinerama.uz/1422/index.m3u8
 #EXTINF:-1 group-title="Спортивные", КХЛ KHL Prime
-https://fs.uplink.kz/khl_prime/index.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Спортивные", КХЛ KHL Prime (2)
 http://stream.mcquack.net/178/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Мото Драйв
 https://stitch.teletarget.ru/vintera/motodrive/index.m3u8
