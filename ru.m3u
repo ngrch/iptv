@@ -384,6 +384,8 @@ https://stream8.cinerama.uz/1227/index.m3u8
 http://176.118.197.101/HCT/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-id="muzhskoe-kino" tvg-logo="https://ngrch.github.io/iptv/logos/muzhskoe.png", Мужское кино
 https://stream8.cinerama.uz/1237/index.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-id="muzhskoe-kino" tvg-logo="https://ngrch.github.io/iptv/logos/muzhskoe.png", Мужское кино (2)
+http://stream.mcquack.net/107/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-id="moskva-24" tvg-logo="https://ngrch.github.io/iptv/logos/m24.png", Москва 24 (М24)
 https://stream.smotrim.ru/hls/moscow_24/playlist_3.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-id="doverie", Москва Доверие
@@ -748,8 +750,6 @@ http://stream.mcquack.net/117/index.m3u8
 http://stream.mcquack.net/162/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Premium
 http://stream.mcquack.net/151/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Viasat Kino Comedy
-http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Start Air
 http://stream.mcquack.net/128/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", НТВ Сериал
@@ -830,8 +830,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
 http://stream.mcquack.net/208/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Индийское кино
 https://stream8.cinerama.uz/1060/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Сапфир
-http://stream.mcquack.net/107/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Еврокино
 http://176.118.197.101/Evrokino/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Еврокино (2)
