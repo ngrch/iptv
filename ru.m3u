@@ -310,6 +310,8 @@ https://stream8.cinerama.uz/1227/index.m3u8
 https://stream8.cinerama.uz/1237/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="muzhskoe-kino" tvg-logo="https://ngrch.github.io/iptv/logos/muzhskoe.png", Мужское кино (2)
 http://stream.mcquack.net/107/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="muzhskoe-kino" tvg-logo="https://ngrch.github.io/iptv/logos/muzhskoe.png", Мужское кино (3)
+http://185.121.1.163:8083/MuzhskoeKino/index.m3u8
 #EXTINF:-1 group-title="Кино", .black
 http://stream.mcquack.net/263/index.m3u8
 #EXTINF:-1 group-title="Кино", .Red
@@ -386,6 +388,8 @@ http://stream.mcquack.net/64/index.m3u8
 http://176.118.197.101/Kinopokaz/index.m3u8
 #EXTINF:-1 group-title="Кино", Любимое кино
 http://176.118.197.101/LubimoeKino/index.m3u8
+#EXTINF:-1 group-title="Кино", Любимое кино (2)
+https://s7.merlive.am/lubimoekino/index.m3u8
 #EXTINF:-1 group-title="Кино", Hollywood
 https://stream8.cinerama.uz/1443/index.m3u8
 #EXTINF:-1 group-title="Кино", Иллюзион+
@@ -702,6 +706,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="solnce-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/solnce.png", Солнце +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
+#EXTINF:-1 group-title="Детские", Детский мир
+https://s7.merlive.am/DetskiMir/index.m3u8
 #EXTINF:-1 group-title="Детские", Маша и Медведь
 https://lbgo.bozztv.com/07/ushba79/index.m3u8
 #EXTINF:-1 group-title="Детские", Мультфильмы
@@ -716,6 +722,8 @@ http://stream.mcquack.net/420/index.m3u8
 https://stream8.cinerama.uz/1244/index.m3u8
 #EXTINF:-1 group-title="Детские", Мама (2)
 http://stream.mcquack.net/79/index.m3u8
+#EXTINF:-1 group-title="Детские", Мама (3)
+https://s7.merlive.am/mama/index.m3u8
 #EXTINF:-1 group-title="Детские", Ducktv
 https://stream8.cinerama.uz/1271/index.m3u8
 #EXTINF:-1 group-title="Детские", Ducktv (2)
@@ -1319,6 +1327,8 @@ http://stream.mcquack.net/179/index.m3u8
 https://api.alpaca.t62a.com/hls/9110/index.m3u8
 #EXTINF:-1 group-title="Кулинария", Joy Cook
 https://stitch.teletarget.ru/peerstv/joycook/index.m3u8
+#EXTINF:-1 group-title="Кулинария", Food Network
+https://s7.merlive.am/FoodNetwork/index.m3u8
 
 #EXTINF:-1 group-title="Религиозные", Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
