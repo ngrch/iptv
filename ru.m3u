@@ -97,9 +97,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="muztv" tvg-logo="https://ngrch.github.io/iptv/logos/muz_tv.png", Муз ТВ (2)
 https://stream8.cinerama.uz/1200/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="muztv" tvg-logo="https://ngrch.github.io/iptv/logos/muz_tv.png", Муз ТВ (3)
-http://stream.mcquack.net/86/index.m3u8
-#EXTINF:-1 group-title="Основные" tvg-id="muztv" tvg-logo="https://ngrch.github.io/iptv/logos/muz_tv.png", Муз ТВ (4)
-https://streaming102.interskytech.com/live/618.m3u8
+https://s7.merlive.am/muztv/index.m3u8
 
 #EXTINF:-1 group-title="Основные (региональные)" tvg-id="pervy-mn1" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png", Первый -1
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KLNG/variant.m3u8
@@ -752,6 +750,8 @@ https://shayan.bonus-tv.ru/cdn/shayan/index.m3u8
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="Детские", Мультиландия
 https://stream8.cinerama.uz/1440/index.m3u8
+#EXTINF:-1 group-title="Детские", Мультимания
+https://venera.movify.tv/Multimania_16_9/index.m3u8
 #EXTINF:-1 group-title="Детские", NikNik
 https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
 #EXTINF:-1 group-title="Детские", Рыжий
@@ -786,7 +786,7 @@ https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=20
 #EXTINF:-1 group-title="Музыкальные" tvg-id="ru-tv" tvg-logo="https://ngrch.github.io/iptv/logos/ru_tv.png", RU.TV РУ.ТВ (2)
 https://stream8.cinerama.uz/1202/index.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="ru-tv" tvg-logo="https://ngrch.github.io/iptv/logos/ru_tv.png", RU.TV РУ.ТВ (3)
-http://stream.mcquack.net/109/index.m3u8
+http://s7.merlive.am/RUTV/index.m3u8
 
 #EXTINF:-1 group-title="Новости" tvg-id="moskva-24" tvg-logo="https://ngrch.github.io/iptv/logos/m24.png", Москва 24 (М24)
 https://stream.smotrim.ru/hls/moscow_24/playlist_3.m3u8
@@ -954,6 +954,8 @@ http://5.188.159.128:8070/udar/index.m3u8
 http://stream.mcquack.net/279/index.m3u8
 #EXTINF:-1 group-title="Спорт", Волейбол
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=5eCXZGvblic9uGykEPvBYw&e=2082370462&scheme=https
+#EXTINF:-1 group-title="Спорт", Волейбол (2)
+https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1
 http://178.134.1.158:8081/eurosport/index.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 2
@@ -986,8 +988,12 @@ https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 https://stream8.cinerama.uz/1226/index.m3u8
 #EXTINF:-1 group-title="Спорт", КХЛ KHL 
 https://stream8.cinerama.uz/1422/index.m3u8
+#EXTINF:-1 group-title="Спорт", КХЛ KHL (2)
+http://176.118.197.101/KHL/index.m3u8
 #EXTINF:-1 group-title="Спорт", КХЛ KHL Prime
 http://stream.mcquack.net/178/index.m3u8
+#EXTINF:-1 group-title="Спорт", КХЛ KHL Prime (2)
+https://fs.uplink.kz/khl_prime/index.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="Спорт", Мото Драйв
 https://stitch.teletarget.ru/vintera/motodrive/index.m3u8
 #EXTINF:-1 group-title="Спорт", Trace Sport Stars
@@ -1364,11 +1370,7 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3/index.m3u8
 #EXTINF:-1 group-title="Региональные", Беларусь 4 | Беларусь
 http://46.56.85.151:8080/0.m3u8
 #EXTINF:-1 group-title="Региональные", Беларусь 5 | Беларусь
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/index.m3u8
-#EXTINF:-1 group-title="Региональные", Беларусь 5 (2) | Беларусь
-http://stream.mcquack.net/33/index.m3u8
-#EXTINF:-1 group-title="Региональные", Беларусь 5 (3) | Беларусь
-http://radio.tvs.by/BT5/index.m3u8
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/index.m3u8
 #EXTINF:-1 group-title="Региональные", Беларусь 24 | Беларусь
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24/index.m3u8
 #EXTINF:-1 group-title="Региональные", Беларусь 24 (2) | Беларусь
@@ -1985,6 +1987,8 @@ https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
 http://stream.mcquack.net/72/index.m3u8
 #EXTINF:-1 group-title="Региональные", QazSport (2) | Казахстан
 https://fs.uplink.kz/qazsport_hd/index.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Региональные", QazSport (3) | Казахстан
+https://fs.uplink.kz/qazsport_hd/index.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="Региональные", Таврия | Херсонская область
 https://streaming.televizor-24-tochka.ru/live/24.m3u8
 #EXTINF:-1 group-title="Региональные", За! | Запорожская область
