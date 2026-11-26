@@ -112,6 +112,8 @@ https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=MeP9OJ5c-c4A5f73twBJ3g&e=2075372287&scheme=https
 #EXTINF:-1 group-title="Музыкальные", Mezzo
 http://live-3.otcnet.ru/Mezzo/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Mezzo (2)
+https://s7.merlive.am/Mezzo/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Музыка 1
 https://lbgo.bozztv.com/07/ushba-t1/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Музыка 2
