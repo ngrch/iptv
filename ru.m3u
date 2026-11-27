@@ -342,61 +342,33 @@ http://185.23.80.23:8080/ART/index.m3u8
 https://serv25.vintera.tv/dai/k_kino_dai_scte-35/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Классика Кино (2)
 https://stitch.teletarget.ru/vintera/movieclassic/index.m3u8
-#EXTINF:-1 group-title="Кино", Fresh Fantastic
-http://stream.mcquack.net/429/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinoseria" tvg-logo="https://ngrch.github.io/iptv/logos/kinoseria.png", Киносерия
 https://stream8.cinerama.uz/1235/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinoseria" tvg-logo="https://ngrch.github.io/iptv/logos/kinoseria.png", Киносерия (2)
 http://176.118.197.101/Kinoseria/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="russky-detektiv" tvg-logo="https://ngrch.github.io/iptv/logos/ru_detectiv.png", Русский детектив
-http://stream.mcquack.net/204/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-xit" tvg-logo="https://ngrch.github.io/iptv/logos/ntv_hit.png", НТВ Хит
 https://cdn.ntv.ru/th_hit/index.m3u8
 #EXTINF:-1 group-title="Кино", Дорама
 https://stream8.cinerama.uz/1273/index.m3u8
-#EXTINF:-1 group-title="Кино", Дорама (2)
-http://stream.mcquack.net/412/index.m3u8
 #EXTINF:-1 group-title="Кино", Телекафе
 https://stream8.cinerama.uz/1035/index.m3u8
 #EXTINF:-1 group-title="Кино", Viju+ Serial
-http://stream.mcquack.net/311/index.m3u8
-#EXTINF:-1 group-title="Кино", Amedia 1
-http://stream.mcquack.net/117/index.m3u8
-#EXTINF:-1 group-title="Кино", Amedia Hit
-http://stream.mcquack.net/162/index.m3u8
-#EXTINF:-1 group-title="Кино", Amedia Premium
-http://stream.mcquack.net/151/index.m3u8
+https://stream8.cinerama.uz/1224/index.m3u8
 #EXTINF:-1 group-title="Кино", Start Air
-http://stream.mcquack.net/128/index.m3u8
+http://176.118.197.101/START_AIR/index.m3u8
 #EXTINF:-1 group-title="Кино", НТВ Сериал
 https://cdn.ntv.ru/th_serial/index.m3u8
-#EXTINF:-1 group-title="Кино", НТВ Сериал (2)
-http://stream.mcquack.net/301/index.m3u8
 #EXTINF:-1 group-title="Кино", Star Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
-#EXTINF:-1 group-title="Кино", Star Family
-https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Киносезон
 https://stitch.teletarget.ru/vintera/movieseason/index.m3u8
-#EXTINF:-1 group-title="Кино", Русский бестселлер
-http://stream.mcquack.net/208/index.m3u8
 #EXTINF:-0 group-title="Кино", Пёс
 https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-0 group-title="Кино", Скорая помощь
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 group-title="Кино", TV12
-http://185.221.213.254:8080/Mafia2/index.m3u8
-#EXTINF:-1 group-title="Кино", ТВ21
-http://stream.mcquack.net/152/index.m3u8
-#EXTINF:-1 group-title="Кино", KinoLiving
-http://stream.mcquack.net/445/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="viasat-history" tvg-logo="https://ngrch.github.io/iptv/logos/viju_history.png", Viju History
 https://stream8.cinerama.uz/1046/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="viasat-history" tvg-logo="https://ngrch.github.io/iptv/logos/viju_history.png", Viju History (2)
-http://stream.mcquack.net/101/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="viasat-history" tvg-logo="https://ngrch.github.io/iptv/logos/viju_history.png", Viju History (3)
-http://178.124.179.122/HistoryHD/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="viasat-history" tvg-logo="https://ngrch.github.io/iptv/logos/viju_history.png", Viju History (4)
 http://flussonic.mkpnet.ru/tv-687ba838ca927b9a/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="istoria" tvg-logo="https://ngrch.github.io/iptv/logos/istoriya.png", История
 https://stream8.cinerama.uz/1266/index.m3u8
@@ -404,11 +376,7 @@ https://stream8.cinerama.uz/1266/index.m3u8
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 group-title="Кино", Ретро (2)
 https://stream8.cinerama.uz/1047/index.m3u8
-#EXTINF:-1 group-title="Кино", Ретро (3)
-http://stream.mcquack.net/191/index.m3u8
 #EXTINF:-1 group-title="Кино", 365 дней
-http://stream.mcquack.net/70/index.m3u8
-#EXTINF:-1 group-title="Кино", 365 дней (2)
 https://stream8.cinerama.uz/1242/index.m3u8
 #EXTINF:-1 group-title="Кино", Наше Аниме
 https://bl.rutube.ru/livestream/ec5267347fa50d03edba227906eba679/index.m3u8?s=xnLCaCP1x_dY6PgDuaR9wg&e=2095679016&scheme=https
