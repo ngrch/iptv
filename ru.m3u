@@ -382,47 +382,31 @@ https://stream8.cinerama.uz/1242/index.m3u8
 https://bl.rutube.ru/livestream/ec5267347fa50d03edba227906eba679/index.m3u8?s=xnLCaCP1x_dY6PgDuaR9wg&e=2095679016&scheme=https
 #EXTINF:-1 group-title="Кино", Ретро Аниме
 https://bl.rutube.ru/livestream/5cc3ad508ccf825b275c2815ba05d2f7/index.m3u8?s=yDFQpHfM6TUJZujmv5mu8g&e=2095679017&scheme=https
+#EXTINF:-1 group-title="Кино", Тайна
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=hCc3BqSwghCQ0GRhDJ967A&e=2070623490&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="nst" tvg-logo="https://ngrch.github.io/iptv/logos/nst.png", НСТ
+http://176.118.197.101/HCT/index.m3u8
 
 #EXTINF:-1 group-title="Путешествия" tvg-id="viasat-explore" tvg-logo="https://ngrch.github.io/iptv/logos/viju_explore.png", Viju Explore
-http://stream.mcquack.net/239/index.m3u8
-#EXTINF:-1 group-title="Путешествия" tvg-id="viasat-explore" tvg-logo="https://ngrch.github.io/iptv/logos/viju_explore.png", Viju Explore (2)
 https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
 #EXTINF:-1 group-title="Путешествия", Dunyo bo'ylab
 https://stream8.cinerama.uz/1006/index.m3u8
 #EXTINF:-1 group-title="Путешествия", Terra Incognita
 https://stitch.teletarget.ru/vintera/terra/index.m3u8
 #EXTINF:-1 group-title="Путешествия", Точка.РФ
-http://158.101.222.193:88/georgia_play.php?id=hdlife
-#EXTINF:-1 group-title="Путешествия", Точка.РФ (2)
 https://stream8.cinerama.uz/1222/index.m3u8
 #EXTINF:-1 group-title="Путешествия", Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 group-title="Путешествия", Приключения
 https://stream8.cinerama.uz/1420/index.m3u8
-#EXTINF:-1 group-title="Путешествия", Приключения (2)
-http://stream.mcquack.net/198/index.m3u8
 #EXTINF:-1 group-title="Путешествия", Моя планета
 https://stream8.cinerama.uz/1247/index.m3u8
-#EXTINF:-1 group-title="Путешествия", One Planet
-http://stream.mcquack.net/448/index.m3u8
-#EXTINF:-1 group-title="Путешествия", Travel+Adventure
-http://stream.mcquack.net/206/index.m3u8
-#EXTINF:-1 group-title="Путешествия", Travel+Adventure (2)
-http://77.232.131.211/TravelAdventureHD/index.m3u8
-#EXTINF:-1 group-title="Путешествия", Travel Channel
-http://stream.mcquack.net/231/index.m3u8
-#EXTINF:-1 group-title="Путешествия", Travel XP
-http://stream.mcquack.net/451/index.m3u8
 #EXTINF:-1 group-title="Путешествия", Точка Отрыва
 https://stream8.cinerama.uz/1031/index.m3u8
 #EXTINF:-1 group-title="Путешествия", Неизвестная Планета
 http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 #EXTINF:-1 group-title="Путешествия", Глазами туриста
 https://stream8.cinerama.uz/1423/index.m3u8
-#EXTINF:-1 group-title="Путешествия", Глазами туриста (2)
-http://stream.mcquack.net/304/index.m3u8
-#EXTINF:-1 group-title="Путешествия", The explorers
-http://stream.mcquack.net/450/index.m3u8
 #EXTINF:-1 group-title="Путешествия", Полет
 http://stitch.teletarget.ru/vintera/flighttv/index.m3u8
 
@@ -435,8 +419,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-id="super" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-id="super" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота (2)
-http://stream.mcquack.net/269/index.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-id="super" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота (3)
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=2066519758&s=dmUf6BUQzDBTwtQOseAfog&scheme=https
 #EXTINF:-1 group-title="Развлекательные" tvg-id="tnt4" tvg-logo="https://ngrch.github.io/iptv/logos/tnt4.png", ТНТ4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
@@ -454,8 +436,6 @@ https://cdn-01.bonus-tv.ru/u/index.m3u8
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
 #EXTINF:-1 group-title="Развлекательные" tvg-id="yu" tvg-logo="https://ngrch.github.io/iptv/logos/you.png", Ю (4)
 https://flussonic.mkpnet.ru/tv-3b21847ece4b1c19/video.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-id="nst" tvg-logo="https://ngrch.github.io/iptv/logos/nst.png", НСТ
-http://176.118.197.101/HCT/index.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-id="doverie", Москва Доверие
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-id="doverie", Москва Доверие (2)
@@ -498,18 +478,14 @@ http://176.118.197.101/Nostalgiya/index.m3u8
 https://tvoetv.space/tvoetv/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Твоё ТВ Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", Перец
-http://stream.mcquack.net/121/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", TLC
-http://stream.mcquack.net/168/index.m3u8
+https://bl.rutube.ru/livestream/7c3d1a4cc0b4dff1176aa2dbb0b90000/index.m3u8?s=ucSu7Uff-i2jssTWTRbRCQ&e=2095765954&scheme=https
 #EXTINF:-1 group-title="Развлекательные", Сарафан
 https://stream8.cinerama.uz/1249/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", Сарафан (2)
-http://stream.mcquack.net/81/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Теледом
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF:-1 group-title="Развлекательные", Тео-ТВ
-https://stream.teotv.ru/live/site360/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные", Тео ТВ
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", 7 TV
 https://v4.proofix.ru/7tv-live/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Толк
@@ -517,34 +493,18 @@ https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u
 #EXTINF:-1 group-title="Развлекательные", Толк (2)
 https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", RuTube
-https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=U_og5iHG6xVp0V3KXYMB0g&e=2070623479&scheme=https
+https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=19aj8QGD4k9FmvT-D25zMA&e=2095765942&scheme=https
 #EXTINF:-1 group-title="Развлекательные", Инсайт
 https://stream8.cinerama.uz/1416/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", Инсайт (2)
-http://stream.mcquack.net/361/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", Gagsnetwork
-http://stream.mcquack.net/458/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", PV+
-http://stream.mcquack.net/397/index.m3u8
 #EXTINF:-0 group-title="Развлекательные", Ты супер!
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="Развлекательные", Смотрим
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные", Тайна
-https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=hCc3BqSwghCQ0GRhDJ967A&e=2070623490&scheme=https
-#EXTINF:-1 group-title="Развлекательные", RAZ 1
-http://stream.mcquack.net/463/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", RAZ 2
-http://stream.mcquack.net/464/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", RAZ 3
 https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Документальные" tvg-id="discovery-channel" tvg-logo="https://ngrch.github.io/iptv/logos/discovery.png", Discovery
 https://stream8.cinerama.uz/1039/index.m3u8
-#EXTINF:-1 group-title="Документальные" tvg-id="discovery-channel" tvg-logo="https://ngrch.github.io/iptv/logos/discovery.png", Discovery (2)
-http://stream.mcquack.net/177/index.m3u8
-#EXTINF:-1 group-title="Документальные", Investigation Discovery
-http://stream.mcquack.net/205/index.m3u8
 #EXTINF:-1 group-title="Документальные", RTД
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:-1 group-title="Документальные", RTД (2)
@@ -570,41 +530,35 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
 #EXTINF:-1 group-title="Детские" tvg-id="2na2" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png", 2x2 (3)
 http://185.23.80.23:8080/2x2/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-id="solnce" tvg-logo="https://ngrch.github.io/iptv/logos/solnce.png", Солнце
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
-#EXTINF:-1 group-title="Детские" tvg-id="solnce" tvg-logo="https://ngrch.github.io/iptv/logos/solnce.png", Солнце (2)
-https://tv.mediacdn.ru/live/solntse/playlist.m3u8
-#EXTINF:-1 group-title="Детские" tvg-id="mult" tvg-logo="https://ngrch.github.io/iptv/logos/mult.png", Мульт
-https://stream8.cinerama.uz/1246/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="2na2-pl2" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png", 2x2 +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="2na2-pl4" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png", 2x2 +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="2na2-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png", 2x2 +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="solnce" tvg-logo="https://ngrch.github.io/iptv/logos/solnce.png", Солнце
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="solnce" tvg-logo="https://ngrch.github.io/iptv/logos/solnce.png", Солнце (2)
+https://tv.mediacdn.ru/live/solntse/playlist.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="solnce-pl2" tvg-logo="https://ngrch.github.io/iptv/logos/solnce.png", Солнце +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="solnce-pl4" tvg-logo="https://ngrch.github.io/iptv/logos/solnce.png", Солнце +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="solnce-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/solnce.png", Солнце +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="mult" tvg-logo="https://ngrch.github.io/iptv/logos/mult.png", Мульт
+https://stream8.cinerama.uz/1246/index.m3u8
 #EXTINF:-1 group-title="Детские", Детский мир
 https://s7.merlive.am/DetskiMir/index.m3u8
 #EXTINF:-1 group-title="Детские", Маша и Медведь
-https://lbgo.bozztv.com/07/ushba79/index.m3u8
+https://rpn3.bozztv.com/dvrfl07/ushba79/index.m3u8
 #EXTINF:-1 group-title="Детские", Мультфильмы
-https://lbgo.bozztv.com/07/ushba80/index.m3u8
+https://rpn3.bozztv.com/dvrfl07/ushba80/index.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids
 https://stream8.cinerama.uz/1437/index.m3u8
-#EXTINF:-1 group-title="Детские", СТС Kids (2)
-http://stream.mcquack.net/197/index.m3u8
-#EXTINF:-1 group-title="Детские", Fan
-http://stream.mcquack.net/420/index.m3u8
 #EXTINF:-1 group-title="Детские", Мама
 https://stream8.cinerama.uz/1244/index.m3u8
 #EXTINF:-1 group-title="Детские", Мама (2)
-http://stream.mcquack.net/79/index.m3u8
-#EXTINF:-1 group-title="Детские", Мама (3)
 https://s7.merlive.am/mama/index.m3u8
 #EXTINF:-1 group-title="Детские", Ducktv
 https://stream8.cinerama.uz/1271/index.m3u8
@@ -614,18 +568,12 @@ https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8
 https://stream8.cinerama.uz/1502/index.m3u8
 #EXTINF:-1 group-title="Детские", Nickelodeon
 https://stream8.cinerama.uz/1500/index.m3u8
-#EXTINF:-1 group-title="Детские", Nickelodeon (2)
-http://stream.mcquack.net/443/index.m3u8
-#EXTINF:-1 group-title="Детские", Nick Jr.
-http://stream.mcquack.net/220/index.m3u8
 #EXTINF:-1 group-title="Детские", Смайл
 https://stream8.cinerama.uz/1425/index.m3u8
 #EXTINF:-1 group-title="Детские", Смайл (2)
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/index.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Network
 https://bl.rutube.ru/livestream/d2119cfb95146b3983cf05c1fe35e66f/index.m3u8?s=SBAsUrxODR6nk6ktHKTpoQ&e=2090795468&scheme=https
-#EXTINF:-1 group-title="Детские", Cartoon Classics
-http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 #EXTINF:-1 group-title="Детские", Шаян
 http://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
 #EXTINF:-1 group-title="Детские", Шаян (2)
@@ -640,8 +588,6 @@ https://venera.movify.tv/Multimania_16_9/index.m3u8
 https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
 #EXTINF:-1 group-title="Детские", Рыжий
 https://stream8.cinerama.uz/1407/index.m3u8
-#EXTINF:-1 group-title="Детские", О!
-http://stream.mcquack.net/60/index.m3u8
 #EXTINF:-1 group-title="Детские", Союзмультфильмы
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="Детские", Тооку
@@ -652,16 +598,10 @@ https://stream8.cinerama.uz/1033/index.m3u8
 https://stream8.cinerama.uz/1270/index.m3u8
 #EXTINF:-1 group-title="Детские", Tiji
 https://stream8.cinerama.uz/1441/index.m3u8
-#EXTINF:-1 group-title="Детские", Tiji (2)
-http://stream.mcquack.net/111/index.m3u8
 #EXTINF:-1 group-title="Детские", Gulli Girl
 https://stream8.cinerama.uz/1445/index.m3u8
-#EXTINF:-1 group-title="Детские", Gulli Girl (2)
-http://stream.mcquack.net/305/index.m3u8
 #EXTINF:-1 group-title="Детские", Капитан Фантастика
 https://stream8.cinerama.uz/1406/index.m3u8
-#EXTINF:-1 group-title="Детские", Капитан Фантастика (2)
-http://stream.mcquack.net/144/index.m3u8
 #EXTINF:-1 group-title="Детские", Плюс минус 16
 https://media.16pm.ru/live/index.m3u8
 
